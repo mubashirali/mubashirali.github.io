@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mubashir Ali
 
-## Senior Backend Software Engineer | Java | AWS | Distributed Systems
+## Senior Backend Software Engineer | Java | Kotlin | AI | AWS | Distributed Systems
 
 I’m a backend-focused software engineer with 11+ years of experience building scalable, reliable, and cloud-native systems across fintech, e-commerce, and insurance domains.
 
