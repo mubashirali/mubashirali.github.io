@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mubashir Ali
+# Hi there 👋, I'm Mubi
 
 ## Senior Backend Software Engineer | Java | Kotlin | AI | AWS | Distributed Systems
 
@@ -82,6 +82,7 @@ Currently based in **Columbia, Missouri, USA**, I specialize in designing distri
 
 ## 📫 Connect With Me
 
+- Pottfolio: https://mubashir-ali.netlify.app
 - LinkedIn: https://www.linkedin.com/in/mubashir-ali992
 - Email: mubashir.ali.memon@gmail.com
 
